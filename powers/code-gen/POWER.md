@@ -9,6 +9,7 @@ keywords: ["miro", "diagram", "workflow", "whiteboard", "spec", "architecture"]
 ## Step 1: Authenticate Miro
 When this power activates, Kiro will prompt you to connect to Miro via OAuth. 
 - Ensure you select the **specific team** where your project boards live.
+- Some MCP Tools are plan specific, check that you have the right license type
 
 # Steering Instructions
 You are an expert at translating visual diagrams into structured code requirements. Use the Miro MCP tools to access board context when the user mentions "the board," "diagrams," or "specs."
