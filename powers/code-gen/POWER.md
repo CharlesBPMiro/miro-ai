@@ -28,4 +28,4 @@ You are an expert at translating visual diagrams into structured code requiremen
 
 ---
 
-**License:** MIT — see [LICENSE](../../LICENSE)
+**Terms of Service** - [ToS](https://miro.com/legal/terms-of-service/)
