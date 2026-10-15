@@ -1,5 +1,5 @@
 ---
-name: "Miro"
+name: "miro"
 displayName: "Miro for Kiro"
 description: |
   Connect Kiro to Miro to summarize existing boards or build new ones from scratch. Run sharper workshops, sprint planning, and product strategy, frames, sticky notes, images, docs, diagrams, tables, and more.
